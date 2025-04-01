@@ -1,4 +1,4 @@
-# ✅ Simple To-Do Flutter App
+# ✅ To-Do Flutter App
 
 Simple To-Do App is a beginner-friendly Flutter application that allows users to manage daily tasks. You can add new to-do items, view them in a list, and tap to mark them as completed. The UI is clean, responsive, and easy to navigate.
 
@@ -28,7 +28,7 @@ lib/
 To run this project locally:
 
 ```bash
-git clone https://github.com/bektas-sari/simple_todo_flutter.git
+git clone https://github.com/bektas-sari/todo_flutter.git
 cd simple_todo_flutter
 flutter pub get
 flutter run
