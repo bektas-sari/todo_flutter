@@ -48,9 +48,15 @@ flutter run
 - Dark mode support
 - Separated files for better code structure
 
-## 👨‍💻 Author
+## 👤 Developer
 
-**[@your-username](https://github.com/bektas-sari)**
+**Bektas Sari**  
+
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
 
 This project is part of my Flutter learning journey and designed for quick implementation and practice.
 
